@@ -13,7 +13,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  {id: "2345678"} = "3"
+  {:id => 3}
 
 end
 
